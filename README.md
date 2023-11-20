@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vickyree
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning front end 
-- 💞️ I’m looking to collaborate on python projects 
+- 💞️ I’m looking to collaborate on full stack projects 
 - 📫 How to reach me
 -    https://linktr.ee/v.k_
 
